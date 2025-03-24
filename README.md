@@ -70,6 +70,11 @@ Pakistan Stock Exchange (KSE 100) CSV
 
 ---
 
+## 🤝 Contributing
+Contributions are welcome! If you'd like to improve the project, feel free to **fork** the repository, create a **new branch**, and submit a **pull request** with your enhancements.
+
+---
+
 ## 📜 License
 This project is **open-source** under the **MIT License**.
 
